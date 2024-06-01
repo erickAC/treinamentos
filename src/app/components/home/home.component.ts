@@ -70,7 +70,7 @@ import { RouterModule } from '@angular/router';
               <button mat-button>Detalhes</button>
             </mat-card-actions>
           </mat-card>
-          <mat-card>
+          <mat-card> 
             <img mat-card-image src="https://i.ytimg.com/vi/BAzsAW_Iwa4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCp1r1k_a4NROhw9KgITGmqGWKsMQ" alt="Photo of a Shiba Inu">
             <mat-card-header>
               <mat-card-title>Analista de suporte</mat-card-title>
